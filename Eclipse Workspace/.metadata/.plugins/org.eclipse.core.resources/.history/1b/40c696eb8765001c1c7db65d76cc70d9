@@ -1,0 +1,14 @@
+package com.generics;
+
+class EmployeeData<T1, T2> {
+	private T1 empID;
+	private T2 empName;
+}
+
+public class Employee {
+
+	public static void main(String[] args) {
+
+	}
+
+}

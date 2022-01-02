@@ -1,0 +1,13 @@
+package com.generics;
+
+class Data<U> {
+	
+}
+
+public class Employee {
+
+	public static void main(String[] args) {
+
+	}
+
+}

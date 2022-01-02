@@ -1,0 +1,7 @@
+package com.collection_framework;
+
+import java.util.ArrayList;
+
+public class ArrayList {
+	static ArrayList<String> listNames = new ArrayList<>();
+}

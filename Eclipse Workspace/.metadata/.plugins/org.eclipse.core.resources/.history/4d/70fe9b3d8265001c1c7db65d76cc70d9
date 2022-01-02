@@ -1,0 +1,12 @@
+package com.generics;
+
+class  Data {
+	private Object obj;
+}
+public class App {
+
+	public static void main(String[] args) {
+
+	}
+
+}

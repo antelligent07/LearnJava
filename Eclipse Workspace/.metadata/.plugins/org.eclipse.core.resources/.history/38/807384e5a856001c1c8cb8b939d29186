@@ -1,0 +1,12 @@
+package com.polymorphism;
+
+public class Phone {
+	
+	private String model;
+	
+	public Phone()
+	{
+		model = model;
+	}
+
+}

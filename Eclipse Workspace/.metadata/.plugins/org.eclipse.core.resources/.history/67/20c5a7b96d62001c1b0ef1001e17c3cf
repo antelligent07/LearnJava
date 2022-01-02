@@ -1,0 +1,18 @@
+package com.collection_framework;
+
+import java.util.ArrayList;
+
+public class Array_List {
+	static ArrayList<String> listNames = new ArrayList<>();
+	
+	listNames.add("Raza");
+	listNames.add("Shahid");
+	listNames.add("Warner");
+	listNames.add("Marcus");
+	listNames.add("Labuschagne");
+	listNames.add("Smith");
+	listNames.add("Wade");
+	listNames.add("Starc");
+	listNames.add("Cummins");
+
+}

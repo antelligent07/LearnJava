@@ -1,0 +1,23 @@
+package com.generics;
+
+import java.util.List;
+
+class StudentData {
+	public <E> void printListData(List<E> list) {
+		for(E element: list) {
+			System.out.println(element);
+		}
+	}
+	
+	public <E> void printArrayData( ) {
+		
+	}
+}
+public class Student {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

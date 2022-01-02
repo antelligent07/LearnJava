@@ -1,0 +1,10 @@
+package com.polymorphism;
+
+public class SamsungNote8 extends Phone{
+
+	public SamsungNote8(String model) {
+		super(model);
+		// TODO Auto-generated constructor stub
+	}
+
+}
